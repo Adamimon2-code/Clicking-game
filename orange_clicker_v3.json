@@ -1,0 +1,22 @@
+{
+  "total_data": 168.0,
+  "all_time_data": 205.0,
+  "data_per_click": 5,
+  "auto_income": 0,
+  "multiplier": 1.0,
+  "owned_upgrades": [
+    "tap1",
+    "tap2"
+  ],
+  "unlocked_achievements": [
+    "ach1"
+  ],
+  "tap_count": 65,
+  "prestige_count": 0,
+  "prestige_bonus": 1.0,
+  "last_time": 1771600637.9735196,
+  "golden_orange_active": false,
+  "achievement_completions": 0,
+  "ach_bonus": 1.0,
+  "data_saver": false
+}
